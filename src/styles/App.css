@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #252525;
+}
+
+.title {
+  font-family: "Nunito";
+  font-weight: 900;
+  font-size: 1.3rem;
+  color: #fff;
+  text-align: center;
+  margin-top: 0.7rem;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.map {
+  margin: 0 auto;
+  max-width: 1300px;
+  min-height: 900px;
+}
+
+@media (max-width: 900px) {
+  .text {
+    font-size: 0.08rem;
+  }
+}

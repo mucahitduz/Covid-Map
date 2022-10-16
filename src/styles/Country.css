@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  background-color: #252525;
+  min-height: 100vh;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding-top: 50%;
+}
+
+.cols {
+  display: flex;
+  justify-content: center;
+}
+
+.data {
+  font-family: "Nunito";
+  font-size: 1.3125rem;
+  font-weight: 700;
+  width: 90%;
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 0.75rem;
+  padding: 1.5em;
+  border-radius: 10px;
+}
+
+.data-country {
+  background-color: #d97700;
+}
+
+.data-confirmed {
+  background-color: #32cd32;
+}
+
+.data-deaths {
+  background-color: #ff0000;
+}
+
+.data-recovered {
+  background-color: #87cefa;
+}
+
+.data-time {
+  background-color: #f0e68c;
+}
+
+.data-title {
+  text-align: center;
+}
+
+h2 {
+  margin: 0.7rem 0;
+  color: #f0ffff;
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+p {
+  display: inline-block;
+}
+
+.error {
+  font-size: 1.3125rem;
+}
+
+@media (min-width: 800px) {
+  .country-data {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
