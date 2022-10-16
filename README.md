@@ -1,5 +1,9 @@
 # Getting Started with Covid-19 Map App
 
+## Live Demo
+
+- [Covid-19 Map](https://md-covid-map.netlify.app/)
+
 This documentation will help you install the application in your windows machine.
 
 - Author of this Document : Mücahit Düz
