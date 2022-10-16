@@ -12,10 +12,10 @@ Author of this Document : Mücahit Düz
 
 ## Setup
 
-**1.** Open **Git Bash**.
-**2.** Change the current working directory to the location where you want the cloned directory.
-**3.** Type `git clone https://github.com/Sagar-Sharma-7/Covid19-Tracker-Countries.git`
-**4.** Press **Enter** to create the clone of this repository.
+**1.** Open **Git Bash**\
+**2.** Change the current working directory to the location where you want the cloned directory.\
+**3.** Type `git clone https://github.com/Sagar-Sharma-7/Covid19-Tracker-Countries.git`\
+**4.** Press **Enter** to create the clone of this repository.\
 **5.** Install dependencies
 
 ```bash
