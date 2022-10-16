@@ -1,4 +1,4 @@
-# Getting Started with Covid-19 Tracker App
+# Getting Started with Covid-19 Map App
 
 This documentation will help you install the application in your windows machine.
 
