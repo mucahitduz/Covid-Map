@@ -14,9 +14,14 @@ This documentation will help you install the application in your windows machine
 
 **1.** Open **Git Bash**\
 **2.** Change the current working directory to the location where you want the cloned directory.\
-**3.** Type `git clone https://github.com/mucahitduz/Covid-Map`\
+**3.** Type the code below
+
+```bash
+ git clone https://github.com/mucahitduz/Covid-Map
+```
+
 **4.** Press **Enter** to create the clone of this repository.\
-**5.** Install dependencies
+**5.** Install dependencies with the code below
 
 ```bash
 npm install
