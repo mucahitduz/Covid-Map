@@ -4,6 +4,8 @@
 
 - [Covid-19 Map](https://md-covid-map.netlify.app/)
 
+## Documentation
+
 This documentation will help you install the application in your windows machine.
 
 - Author of this Document : Mücahit Düz
